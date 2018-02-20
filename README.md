@@ -4,6 +4,7 @@ This is a remake of [QBasic Nibbles](https://en.wikipedia.org/wiki/Nibbles_(vide
 QBasic Nibbles was published with MS-DOS version 5.0 or above, and served as an example of what QBasic can do.
 
 Like [Nibbles for VB.NET](https://github.com/lwchkg/nibbles_vbnet), the VBGraphics version is intended to be an example program for beginners in their first year of programming.
+It also demonstrate the capabilities of the VBGraphics package.
 
 ![Title Screen](screenshot/title_screen.png?raw=true)
 ![Gameplay](screenshot/gameplay.png?raw=true)
@@ -12,6 +13,10 @@ Like [Nibbles for VB.NET](https://github.com/lwchkg/nibbles_vbnet), the VBGraphi
 
 If you just want to try the game, go to [the latest release](https://github.com/lwchkg/Nibbles_VBGraphics/releases), download the binary and just run it.
 Then follow the in-game instructions.
+
+**Note: the “Close” button in the game window currently cannot be used to end the game.
+So the only way to close the program is to type “N” in the game over screen.
+This will be fixed in a future version.**
 
 But as an example program, it is much more useful to download the source instead by the following instructions:
 
