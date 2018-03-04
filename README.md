@@ -14,10 +14,6 @@ It also demonstrate the capabilities of the VBGraphics package.
 If you just want to try the game, go to [the latest release](https://github.com/lwchkg/Nibbles_VBGraphics/releases), download the binary and just run it.
 Then follow the in-game instructions.
 
-**Note: the “Close” button in the game window currently cannot be used to end the game.
-So the only way to close the program is to type “N” in the game over screen.
-This will be fixed in a future version.**
-
 But as an example program, it is much more useful to download the source instead by the following instructions:
 
 1. Install Visual Studio if you did not already install it.
