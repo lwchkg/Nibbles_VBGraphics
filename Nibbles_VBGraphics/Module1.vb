@@ -805,6 +805,7 @@ Module Module1
 
     Sub Main()
         gw = New GraphicsWindow(800, 500)
+        gw.CanClose = True
         gw.Form.Text = "VBGraphics Nibbles"
 
         ShowGameIntro()
