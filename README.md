@@ -1,4 +1,4 @@
-# Nibbles for VB.NET
+# Nibbles for VBGraphics
 
 This is a remake of [QBasic Nibbles](https://en.wikipedia.org/wiki/Nibbles_(video_game)) in VB.NET with the [VBGraphics](https://www.nuget.org/packages/VBGraphics/) package.
 QBasic Nibbles was published with MS-DOS version 5.0 or above, and served as an example of what QBasic can do.
